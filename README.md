@@ -1,0 +1,2 @@
+# HotelRatingMicroserviceConfiguration
+Common Configurations for hotelRating microservices
